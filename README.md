@@ -16,3 +16,9 @@ and gives the better accuracy.
 This repository contains the code, a sample image from dataset and model file. 
 
 The link for the dataset is https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/data. 
+
+The steps to use this repository are:
+1. Install the Keras API using pip install keras. Also download the galaxy zoo dataset from the provided link and store into a directory.
+2. Change the DATA_PATH and run till plotting the train and test data.
+3. Change the FILTERED_DATA_PATH and DATASETS_PATH and run till augmentation. Augmented data will be generated into the FILTERED_DATA_PATH.
+4. Change the path in the model_checkpoint and run the training and code to get the results and graphs.
