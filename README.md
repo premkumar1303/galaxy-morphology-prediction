@@ -12,3 +12,7 @@ reach the required level of accuracy. Here we present a deep
 neural network model to classify the galaxies on the basis of
 their morphology. This greatly reduces the experts workload
 and gives the better accuracy.
+
+This repository contains the code, a sample image from dataset and model file. 
+
+The link for the dataset is https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/data. 
